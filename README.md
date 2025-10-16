@@ -1,2 +1,1 @@
-# Boat
-Midterm exam
+SAMPLE
